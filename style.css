@@ -1,0 +1,130 @@
+html,body {
+  height:100%;
+}
+
+header {
+  display:block;
+  background:#3a3a3d;
+  padding:0px 0px;
+}
+
+#imgCodoACodo{
+  height: 70px;
+  margin-left: 35px;
+}
+.row.menuConImg {
+  padding-left: 80px;
+}
+#tituloMenu {
+  padding-top: 20px;
+  color: white;
+  font-family: "arial", serif;
+  text-align: left;
+}
+div#titulosMenu {
+  padding-top: 25px;
+  color: white;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+
+}
+
+ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+.opcMenu{
+  color: white;
+  text-decoration: none;
+}
+.comprarTickets{
+  color: rgb(47, 226, 47);
+}
+
+#tituloDelContenido{
+  text-align: center;
+}
+
+.lenguajes{
+  margin-bottom: 5px;
+}
+.javaScript{
+  background-color: #eeea0f; 
+  border-radius: 10px; 
+  text-align: center;
+  font-size: 12px;
+  margin-left: 10px;
+
+}
+.react{
+  background-color: #09a2df; 
+  border-radius: 10px; 
+  color:white;
+  text-align: center;
+  margin-left: 5px;
+  font-size: 12px;
+}
+
+.negocios{
+  background-color: #636363; /* Color de fondo sólido */
+  border-radius: 10px; /* Radio del borde */
+  color:white;
+  text-align: center;
+  font-size: 12px;
+  margin-left: 10px;
+
+}
+.startups{
+  background-color: #e73434; /* Color de fondo sólido */
+  border-radius: 10px; /* Radio del borde */
+  color:white;
+  text-align: center;
+  margin-left: 5px;
+  font-size: 12px;
+}
+
+.row.octubreBuenosAires {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.col.textoctubreBuenosAires {
+  background-color: rgb(65, 64, 64);
+  color: white;
+  font-size: 13px;
+}
+
+.textarea{
+  margin-top: 15px;
+}
+
+.containerForm{
+  max-width: 800px;
+  margin: 0 auto; 
+  padding: 20px; 
+  text-align: left;
+}
+
+footer{
+  display:block;
+  background:#395d5f;
+  padding: 15px;
+  margin-top: 15px;
+
+}
+
+.seccionesFooter{
+  text-decoration: none;
+  color: white;
+  }
+
+ .opcFooter{
+   text-decoration: none;
+   color: white;
+ }
+
