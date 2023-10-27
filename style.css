@@ -154,3 +154,16 @@ p#totalFianl {
   text-align: left;
 
 }
+
+#botonTickets {
+  background-color: #32ff32; 
+  color: #000; 
+  border: none; 
+  padding: 10px 20px; 
+  transition: background-color 0.3s; 
+}
+
+#botonTickets:hover {
+  background-color: #329632; 
+  color: #fff; 
+}
