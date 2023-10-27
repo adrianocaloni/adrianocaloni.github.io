@@ -27,7 +27,9 @@ muestroResultado.textContent = "Total a Pagar: $"+percioFinal;
 
 function borrarValor(){
 
-    var muestroResultado = document.getElementById("totalFianl");
-    muestroResultado.textContent = "Total a Pagar: $0"
+    var borroResultado = document.getElementById("totalFianl");
+    borroResultado.textContent = "Total a Pagar: $0"
 
+    var formulario = document.getElementById("formularioCompraTickets");
+    formulario.reset();
 }
