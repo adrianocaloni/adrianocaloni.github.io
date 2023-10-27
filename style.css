@@ -128,3 +128,29 @@ footer{
    color: white;
  }
 
+/*2da Etapa - Comprar Ticket*/
+p#totalFianl {
+  background-color: rgb(218, 218, 255);
+  padding: 20px;
+  margin-top: 15px;
+}
+
+.container.text-center.comprarTicket {
+  margin-top: 15px;
+}
+.card-body.estudiante {
+  border: 2px solid rgb(4, 0, 255);
+}
+.card-body.trainee {
+  border: 2px solid rgb(0, 183, 255);
+}
+.card-body.junior {
+  border: 2px solid rgb(255, 166, 0);
+}
+
+.containerTicket{
+  max-width: 990px;
+  margin: 0 auto;
+  text-align: left;
+
+}
